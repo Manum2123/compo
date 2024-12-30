@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "status":2,
+        "title": "IT - Developers Support - 2024",
+        "actual": 74,
+        "inProgress": 32,
+        "assigned": 500,
+        "remain": 394
+    },
+    {
+        "id": 2,
+        "status":2,
+        "title": "IT - Developers Support - 2024",
+        "actual": 128,
+        "inProgress": 16,
+        "assigned": 500,
+        "remain": 356
+    },
+    {
+        "id": 3,
+        "status":0,
+        "title": "IT - Developers Support - 2024",
+        "actual": 86.5,
+        "inProgress": 0,
+        "assigned": 500,
+        "remain": 413.5
+    },
+    {
+        "id": 4,
+        "status":1,
+        "title": "IT - Developers Support - 2024",
+        "actual": 8,
+        "inProgress": 0,
+        "assigned": 500,
+        "remain": 492
+    },
+    {
+        "id": 5,
+        "status":2,
+        "title": "IT - Developers Support - 2024",
+        "actual": 8,
+        "inProgress": 0,
+        "assigned": 500,
+        "remain": 492
+    },
+    {
+        "id": 6,
+        "status":3,
+        "title": "IT - Developers Support - 2024",
+        "actual": 8,
+        "inProgress": 0,
+        "assigned": 500,
+        "remain": 492
+    }
+
+
+   
+]
