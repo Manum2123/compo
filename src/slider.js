@@ -32,7 +32,6 @@ function SamplePrevArrow(props) {
     );
 }
 
-
 function MultipleItems() {
     const settings = {
         dots: true,
@@ -78,7 +77,7 @@ function MultipleItems() {
             }}
         >
             <Slider {...settings}>
-            {tasks.map((task) => (
+                {tasks.map((task) => (
                     <div
                         key={task.id}
                         style={{
@@ -259,3 +258,4 @@ function MultipleItems() {
 }
 
 export default MultipleItems;
+
